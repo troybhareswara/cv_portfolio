@@ -33,3 +33,8 @@ TAMPILAN WEBSITE
 <img width="1909" height="712" alt="Screenshot 2025-10-01 225330" src="https://github.com/user-attachments/assets/c506b805-4737-4ae8-84b6-a05d067656c2" />
 
 
+3. KESIMPULAN
+
+Menurut saya kode HTML tersebut menyusun sebuah halaman CV Portfolio yang terstruktur dengan baik menggunakan elemen header, nav, main, dan footer. Setiap bagian penting seperti About Me, Skills, Experience, Education, Projects, dan Contact dipisahkan dengan tag section sehingga mudah dinavigasi dan diatur tampilannya menggunakan CSS. Struktur ini membuat CV lebih rapi, interaktif, serta mudah dipahami baik oleh pengguna maupun pengembang.
+
+
